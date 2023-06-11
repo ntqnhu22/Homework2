@@ -1,0 +1,16 @@
+#String
+# Write your code below and press Shift+Enter to execute
+d = "ABCDEFG"
+print(d[:3]) 
+# Write your code below and press Shift+Enter to execute
+e = 'clocrkr1e1c1t'
+print(e[::2])
+# Write your code below and press Shift+Enter to execute
+f = "You are wrong"
+f.upper()
+# Write your code below and press Shift+Enter to execute
+g = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+g.find("snow")
+g.replace("Mary", "Bob")
